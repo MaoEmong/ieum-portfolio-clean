@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">이음, Java와 Spring 백엔드 포트폴리오</title>
+  <desc id="desc">백엔드 실패 처리, 실행 가능한 검증, AI 협업 근거.</desc>
+  <rect width="1200" height="300" rx="18" fill="#EDF2F7"/>
+  <path d="M32 38h5v224h-5z" fill="#3D658B"/>
+  <text x="68" y="70" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#3D658B">IEUM / BACKEND ENGINEERING</text>
+  <text x="64" y="140" font-family="Pretendard,Noto Sans KR,sans-serif" font-size="40" font-weight="600" fill="#223246">Java · Spring, 실패까지 검증</text>
+  <text x="68" y="187" font-family="Pretendard,Noto Sans KR,sans-serif" font-size="20" fill="#607186">서버 구현과 AI 협업 과정을 코드·테스트로 연결합니다.</text>
+  <text x="68" y="250" font-family="Arial,sans-serif" font-size="15" fill="#607186">MaoEmong · v1 Portfolio · 2026.09</text>
+  <g transform="translate(835 52)">
+    <rect x="0" y="0" width="288" height="54" rx="8" fill="#FFFFFF"/>
+    <rect x="0" y="72" width="288" height="54" rx="8" fill="#FFFFFF"/>
+    <rect x="0" y="144" width="288" height="54" rx="8" fill="#3D658B"/>
+    <text x="22" y="34" font-family="Pretendard,Noto Sans KR,sans-serif" font-size="18" fill="#223246">01   백엔드 구현</text>
+    <text x="22" y="106" font-family="Pretendard,Noto Sans KR,sans-serif" font-size="18" fill="#223246">02   실패 재현 · 회귀 검사</text>
+    <text x="22" y="178" font-family="Pretendard,Noto Sans KR,sans-serif" font-size="18" fill="#FFFFFF">03   AI 협업 근거</text>
+  </g>
+</svg>
