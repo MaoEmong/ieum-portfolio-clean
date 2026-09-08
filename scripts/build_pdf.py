@@ -269,7 +269,7 @@ class Portfolio:
                   M, 690, CW, 8.8, MUTED, max_h=44)
         self.text(REPO.removeprefix("https://"), M, 750, 10.5, BLUE, True)
         self.c.linkURL(REPO, (M, H - 770, W - M, H - 746), relative=0, thickness=0)
-        self.text("현재 PRIVATE · 소유자 검토 후 공개 결정 · 외부 제출 전 링크 접근 확인", M, 775, 7.5, MUTED)
+        self.text("공개 포트폴리오 · 서비스 핵심 구현·운영 정보 제외 · 독립 예제와 검증 범위는 본문 참고", M, 775, 7.5, MUTED)
         self.end()
 
     def build(self):
